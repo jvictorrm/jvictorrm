@@ -31,7 +31,6 @@
 #### Panorama do que tenho em meus repositórios
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorrm&theme=react&layout=compact"></img>
-<img align="center" src="https://starchart.cc/jvictorrm/autoescola-jv.svg"></img>
 
 ##
 
