@@ -1,6 +1,6 @@
 <h3>Olá! :wave:<br/>Me chamo João Victor Moreira <br/>e sou um desenvolvedor Full-Stack</h3>
   
-#### Atualmente meu trabalho e meus estudos estão mais voltados ao desenvolvimento Front-End. Utilizo ferramentas como:
+#### Atualmente meu trabalho e meus estudos estão mais voltados ao desenvolvimento Front-End utilizando ferramentas como:
 
 <div style="display: inline_block">
   <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/html5.svg" width="40" height="40" alt="Logo HTML5"></img>
