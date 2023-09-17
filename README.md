@@ -8,9 +8,15 @@
   <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/javascript.svg" width="40" height="40" alt="Logo Javascript"></img>
   <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/jquery.svg" width="60" height="60" alt="Logo JQuery"></img>
   <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/react.svg" width="40" height="40" alt="Logo ReactJS"></img>
+  <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/typescript-icon.svg" width="40" height="40" alt="Logo TypeScript"></img>
   <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/redux.svg" width="60" height="60" alt="Logo Redux"></img>
+  <img align="center" src="https://github.com/prplx/svg-logos/blob/master/svg/nextjs.svg" width="60" height="60" alt="Logo NextJS"></img>
+  <img align="center" src="https://raphaeljcmarques.com/assets/techs/zustand.svg" width="60" height="60" alt="Logo Zustand"></img>
+  <img align="center" src="https://github.com/prplx/svg-logos/blob/master/svg/tailwindcss-icon.svg" width="60" height="60" alt="Logo TailwindCSS"></img>  
+  <img align="center" src="https://www.svgrepo.com/show/330132/chakraui.svg" width="60" height="60" alt="Logo Chakra UI"></img>  
   <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/yarn.svg" width="60" height="60" alt="Logo Yarn"></img>
   <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/eslint.svg" width="60" height="60" alt="Logo ESLint"></img>
+  <img align="center" src="https://www.svgrepo.com/show/374004/prettier.svg" width="60" height="60" alt="Logo Prettier"></img>  
   <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/git.svg" width="60" height="60" alt="Logo Git"></img>
 </div>
 
@@ -19,12 +25,11 @@
 <div style="display: inline_block">
   <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/nodejs.svg" width="60" height="60" alt="Logo NodeJS"></img>
   <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/express.svg" width="60" height="60" alt="Logo ExpressJS"></img>
-  <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/mongodb.svg" width="60" height="60" alt="Logo MongoDB"></img>
-  <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/typescript-icon.svg" width="40" height="40" alt="Logo TypeScript"></img>
+  <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/mongodb.svg" width="60" height="60" alt="Logo MongoDB"></img>  
   <img align="center" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="60" height="60" alt="Logo MySQL"></img>
   <img align="center" src="https://www.svgrepo.com/show/354152/oracle.svg" width="60" height="60" alt="Logo Oracle"></img>
   <img align="center" src="https://www.svgrepo.com/show/374016/python.svg" width="40" height="40" alt="Logo Python"></img>
-  <img align="center" src="https://www.sonarqube.org/features/multi-languages/index/java-color.svg" width="60" height="60" alt="Logo Java"></img>
+  <img align="center" src="https://www.svgrepo.com/show/452234/java.svg" width="60" height="60" alt="Logo Java"></img>
   <img align="center" src="https://codions.com/assets/img/technologies/flutter.svg" width="40" height="40" alt="Logo Flutter"></img>
 </div>
 
