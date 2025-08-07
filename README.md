@@ -3,7 +3,7 @@
 #### Atualmente meu trabalho e meus estudos estão mais voltados ao desenvolvimento Front-End utilizando ferramentas como:
 
 <div style="display: inline_block">
-  <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/html5.svg" width="40" height="40" alt="Logo HTML5"></img>
+  <img align="center" src="https://raw.githubusercontent.com/prplx/svg-logos/refs/heads/master/svg/HTML5.svg" width="40" height="40" alt="Logo HTML5"></img>
   <img align="center" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/css3.svg" width="40" height="40" alt="Logo CSS3"></img>
   <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/javascript.svg" width="40" height="40" alt="Logo Javascript"></img>
   <img align="center" src="https://github.com/prplx/svg-logos/raw/master/svg/jquery.svg" width="60" height="60" alt="Logo JQuery"></img>
